@@ -25,7 +25,7 @@ define('DB_NAME', 'wp_LimogesFc');
 define('DB_USER', 'root');
 
 /** Mot de passe de la base de données MySQL. */
-define('DB_PASSWORD', '@Cqnttptrpf1987');
+define('DB_PASSWORD', 'admin');
 
 /** Adresse de l’hébergement MySQL. */
 define('DB_HOST', 'localhost');
@@ -92,3 +92,4 @@ if ( !defined('ABSPATH') )
 
 /** Réglage des variables de WordPress et de ses fichiers inclus. */
 require_once(ABSPATH . 'wp-settings.php');
+define('FS_METHOD', 'direct');
