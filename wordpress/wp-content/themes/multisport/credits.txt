@@ -1,0 +1,50 @@
+== Third-Party Resources ==
+
+MultiSport WordPress Theme bundles the following third-party resources:
+
+Fontawesome:
+
+Fontawesome is licensed under the terms of The MIT License
+Source: https://opensource.org/licenses/mit-license.html
+
+assets/css/font-awesome.css - The MIT License (MIT), Reference: http://opensource.org/licenses/MIT
+assets/fonts/FontAwesome.otf SIL OFL 1.1 Reference: http://scripts.sil.org/OFL
+assets/fonts/fontawesome-webfont.eot SIL OFL 1.1 Reference: http://scripts.sil.org/OFL
+assets/fonts/fontawesome-webfont.svg SIL OFL 1.1 Reference: http://scripts.sil.org/OFL
+assets/fonts/fontawesome-webfont.ttf SIL OFL 1.1 Reference: http://scripts.sil.org/OFL
+assets/fonts/fontawesome-webfont.woff SIL OFL 1.1 Reference: http://scripts.sil.org/OFL
+assets/fonts/fontawesome-webfont.woff2 SIL OFL 1.1 Reference: http://scripts.sil.org/OFL
+
+assets/css/animate.css - the MIT license, Reference: http://opensource.org/licenses/MIT
+author URL: http://daneden.me/animate
+
+assets/js/viewportchecker.js - the MIT license, Reference: http://opensource.org/licenses/MIT
+
+assets/js/jquery.easing.1.3.js Released under The MIT License (MIT) - http://opensource.org/licenses/MIT
+
+assets/js/jquery.eislideshow.js Released under The MIT License (MIT) - http://opensource.org/licenses/MIT
+
+images/slider/1.jpg CC0 Public Domain Reference: http://pixabay.com/go/?t=%2Fservice%2Fterms%2F%23download_terms
+Image Source: https://pixabay.com/en/kayaking-girl-leisure-sport-918464/
+
+images/slider/2.jpg CC0 Public Domain Reference: http://pixabay.com/go/?t=%2Fservice%2Fterms%2F%23download_terms
+Image Source: https://pixabay.com/en/yoga-girl-beach-sunset-summer-1665173/
+
+images/slider/3.jpg CC0 Public Domain Reference: http://pixabay.com/go/?t=%2Fservice%2Fterms%2F%23download_terms,
+Image Source: https://pixabay.com/en/surfing-girl-female-surfer-1210040/
+
+screenshot.png (Slider Image) CC0 Public Domain Reference: http://pixabay.com/go/?t=%2Fservice%2Fterms%2F%23download_terms
+Image Source: https://pixabay.com/en/kayaking-girl-leisure-sport-918464/
+
+Default Theme Font:
+
+Questrial (default theme font), Released under Apache License,
+version 2.0 license - http://www.apache.org/licenses/LICENSE-2.0.html
+
+"Pro" theme section examples for the customizer
+Author: Justin Tadlock (justintadlock)
+License: GNU General Public License, version 2, https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+inc/customize-pro/class-customize.php
+inc/customize-pro/customize-controls.css
+inc/customize-pro/customize-controls.js
